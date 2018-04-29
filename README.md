@@ -3,5 +3,5 @@ A simple module to give the shortest route from the starting point, passing thro
 This module uses the Google Maps APIs to compute the shortest route.
 It takes eleven values from the user, namely, the starting point and ten locations (the location can be entered as a city, a specific address, or a precise longitude latitude value).
 The output is a text file, which is saved in the current working directory.
-It doesn not support intercontinental locations.
+It does not support intercontinental locations.
 This module currently works with Mac OS only.
